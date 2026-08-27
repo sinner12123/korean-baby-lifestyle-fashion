@@ -1,9 +1,9 @@
 ---
-name: konny-lifestyle-fashion
+name: korean-baby-lifestyle-fashion
 description: Create or edit consistent Korean-style baby and toddler apparel campaign images with soft daylight, pastel color, candid movement, and faithful garment rendering. Use for model casting, identity sheets, lifestyle scenes, lookbooks, product-focused image sets, and garment replacement; do not use for adult streetwear or plain white-background packshots.
 ---
 
-# Konny Lifestyle Fashion
+# Korean Baby Lifestyle Fashion
 
 Create an original, coherent baby/toddler fashion campaign inspired by the soft Korean lifestyle language defined in [references/style-system.md](references/style-system.md). Treat the reference brand as directional research, never as a request to reproduce a specific copyrighted photograph, logo, layout, or identifiable child.
 
