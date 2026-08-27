@@ -1,0 +1,6 @@
+interface:
+  display_name: "Konny 韩系母婴服装影像"
+  short_description: "生成统一、自然、柔和的韩系母婴生活方式服装影像"
+  default_prompt: "Use $konny-lifestyle-fashion to create a consistent Korean-style baby apparel campaign from my garment references."
+policy:
+  allow_implicit_invocation: true
